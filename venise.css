@@ -1,0 +1,186 @@
+body{
+    
+    background-image: url();background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(miami.jpg);
+    
+    padding: 0;
+    margin: 0;
+    
+    background-attachment: fixed;
+    font-size: 30px;
+
+}
+.well{
+    color: white;
+    background-color:;
+    font-size: 70px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+header{
+   background-image: url(https://img-4.linternaute.com/jsVIa2q2omh9Zb1omuPx0AgYPYI=/1080x/smart/9816923a5fff4d1698d0914c475b17aa/ccmcms-linternaute/11092113.jpg);
+   width: 100%;
+   background-repeat: no-repeat;
+
+   background-size: cover;
+   height: 100vh;
+   
+   background-attachment: fixed;
+}
+.cheval{
+    max-width: 650px;
+    position: ;
+    display: block;
+    background: rgba(255, 255, 255, .4);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, .2);
+   font-size: 25px;
+   color: black;
+    text-align: center;
+    letter-spacing: 2px;
+    background-size: 100%;
+}
+
+
+
+
+
+
+
+footer{
+  
+    background-color:black (255, 255, 255, 0.342);
+    bottom: 0px;
+    top: auto;
+    position: 0px;
+    border-radius: 10px;
+    flex-direction: column
+    ;
+    background-image: url(ellow.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    flex-shrink: 0;
+    width: 100%;
+    height: 100vh;
+
+    border-top: 1px ;
+    background-attachment: fixed;
+    
+}
+#B{
+    flex-direction: column;
+    text-align: ;
+    top: 0px;
+    color: white;
+}
+#ALL  {
+    
+    color: white;
+    background-color: ;
+    justify-content: center;
+    display: flex
+    ;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100;
+    flex: auto;
+}
+#p{
+    color: white;
+}
+
+#letter{
+    color: white;
+}
+li:hover{
+   
+    color: aliceblue;
+}
+
+.venise{
+    text-align: center
+    ;
+    font-size: 40px;
+    top: -50px
+    ;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-attachment: fixed;
+
+}
+.P{
+    font-size: 20px;
+}
+
+
+ul li{
+    display: inline-block;
+    padding: 30px;
+}
+ ul{
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+
+
+
+nav ul li{
+    display: inline-block;
+    
+    padding: 30px 30px 0px 30px ;
+}
+a:hover::before{
+    top: 0;
+    border-radius: 0;
+}
+a::before{
+    content: '';
+    background-color: red;
+    position: absolute;
+    background-color: ;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50% 50% 0 0;
+    transition: all .5s;
+    z-index: -1;
+}
+a{
+   
+    z-index: 0;
+    overflow: hidden;
+    color: white;
+    background-color: black;
+    position: relative;
+    font-weight: 600;
+    font-size: x-large;
+    display: flex;
+    font-family:"Comic Sans MS";
+    text-decoration: none;
+    width: 130px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    
+}
+
+#get{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+

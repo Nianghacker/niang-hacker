@@ -1,0 +1,221 @@
+
+header{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://lp-cms-production.imgix.net/features/2019/04/Moscow-Red-Square-9a8e66e06b49.jpg);
+    background-repeat: no-repeat;bottom:    ;
+    background-size: cover;
+    height: 100VH;
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-attachment: fixed;
+}
+.love{
+    width: 100%;
+    height: 100vh;
+    
+}
+.love :hover{
+    background-image: url(https://lp-cms-production.imgix.net/features/2019/04/Moscow-Red-Square-9a8e66e06b49.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
+.pic{
+    font-size: 50px;
+}
+#take{
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    
+    ;
+    background-color: ;
+}
+
+
+
+
+footer{
+   
+    background-color:rgba(0, 0, 0, 0.068) (255, 255, 255, 0.342);
+    bottom: 0px;
+    top: auto;
+    position: 0px;
+    border-radius: 10px;
+    flex-direction: column
+    ;
+    background-image: url(ellow.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    flex-shrink: 0;
+    border-top: 1px ;
+    width: 100%;
+     ;
+    color: white;
+    font-size: 30px;
+    height: 100vh;
+    background-attachment: fixed;
+
+}
+.glass{
+    color: black;
+}
+#B{
+    flex-direction: column;
+    text-align: ;
+    top: 0px;
+    color: white;
+}
+#ALL  {
+    
+    color: white;
+    background-color: ;
+    justify-content: center;
+    display: flex
+    ;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100;
+    flex: auto;
+    
+}
+#p{
+    color: white;
+}
+
+#letter{
+
+}
+li:hover{
+   
+    color: black;
+}
+.A{
+
+}
+
+#him{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+#section{
+    padding: 0 100px;
+    background: url();
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    display: inline-block;
+    padding: 30px;
+}
+ ul{
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    
+    padding: 30px 30px 0px 30px ;
+}
+a:hover::before{
+    top: 0;
+    border-radius: 0;
+}
+a::before{
+    content: '';
+    background-color: rgb(246, 167, 167);
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50% 50% 0 0;
+    transition: all .5s;
+    z-index: -1;
+}
+a{
+   
+    z-index: 0;
+    overflow: hidden;
+    color: white;
+    position: relative;
+    font-weight: 600;
+    font-size: x-large;
+    display: flex;
+    font-family:"Comic Sans MS";
+    text-decoration: none;
+    width: 130px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: black;
+    
+}
+
+
+
+body{
+    text-align: ;
+    background-color: black;
+    background-attachment: fixed;
+    background-image: url(bouda.jpeg);
+    background-size: cover;
+    font-size: 30px;
+}
+.looker{
+    text-align: center;
+    
+    
+    border-radius: 15px;
+    max-width: 650px;
+    position: ;
+    display: block;
+    background: rgba(255, 255, 255, .4);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, .2);
+    text-align: center;
+    letter-spacing: 2px;
+    background-size: 100%;
+}
+.now{
+   
+       margin: 30px auto;
+    width: 100px;
+    height: 100px;
+
+   
+    
+}
+
+.no{
+    text-decoration: none;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    background-color: black;
+}
+.P{
+    font-size: 25px;
+}
+.no{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+
+
